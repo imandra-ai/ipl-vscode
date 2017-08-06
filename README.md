@@ -1,6 +1,6 @@
 
-![Aesthetic Integration](https://raw.githubusercontent.com/AestheticIntegration/ipl-vscode/master/images/ai.svg)
+![Aesthetic Integration](images/ai.png)
 
-![Imandra Markets](https://raw.githubusercontent.com/AestheticIntegration/ipl-vscode/master/images/im.svg)
+![Imandra Markets](images/im.png)
 
 # Welcome to Imandra Protocol Language VS Code Plugin Repo
