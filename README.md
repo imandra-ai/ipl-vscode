@@ -1,6 +1,4 @@
 
-![Aesthetic Integration](https://github.com/AestheticIntegration/ipl-vscode/blob/master/images/ai.png)
-
-![Imandra Markets](https://github.com/AestheticIntegration/ipl-vscode/blob/master/images/im.png)
-
-# Welcome to Imandra Protocol Language VS Code Plugin Repo
+![Aesthetic Integration](https://storage.googleapis.com/imandra-assets/images/github/vs_code_plug_head.png)
+--------
+Welcome to Imandra Protocol Language VS Code Plugin Repo
