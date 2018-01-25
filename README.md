@@ -3,9 +3,10 @@
 ---
 Welcome to Imandra Protocol Language VS Code Plugin Repo
 
-This repo contains the vsix file required to run a language server for Imandra Protocol Language (IPL) in VSCode. It is possible to find it on the Visual Studio MarketPlace [![](vsmp.png)](https://marketplace.visualstudio.com/items?itemName=aestheticintegration.ipl-vscode)
+This repo contains the vsix file required to run a language server for Imandra Protocol Language (IPL) in VSCode. It is possible to find it on the Visual Studio MarketPlace
+- [![](vsmp.png)](https://marketplace.visualstudio.com/items?itemName=aestheticintegration.ipl-vscode)
 
 Please refer to the documentation for IPL:
-- [![ipldoc.svg]()](https://docs.imandra.ai/ipl/)
+- [![](ipldoc.svg)](https://docs.imandra.ai/ipl/)
 
 Examples can be found in the examples repository [here](https://github.com/AestheticIntegration/ipl-examples)
